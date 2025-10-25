@@ -18,7 +18,7 @@ Formålet var å vise hvordan generative KI-modeller kan samarbeide for å produ
 
 ## 🧩 Brukte KI-verktøy
 
-### 1. **Claude (og Grok) – Kodegenerering**
+### 1. **Claude – Kodegenerering**
 Claude ble brukt til å utvikle struktur og funksjonalitet i nettsiden.  
 Jeg benyttet modellen til å generere HTML-, CSS- og JavaScript-kode, samt foreslå forbedringer i logikk, interaksjon og datastruktur.
 
@@ -28,7 +28,7 @@ I tillegg ble ChatGPT brukt aktivt til å **utforme og forbedre prompts** som bl
 
 ### 3. **Leonardo AI – Bildegenerering**
 Leonardo AI ble brukt til å lage grafiske elementer som **logo, ikoner og visuelle komponenter** til grensesnittet.  
-Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet.
+Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet. Bldene som ble generert ligger under "images" mappen
 
 ---
 
