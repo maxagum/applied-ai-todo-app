@@ -8,7 +8,7 @@
 
 ## 📘 Prosjektbeskrivelse
 Dette prosjektet er utviklet som en del av emnet *Anvendt AI* ved Høgskolen i Østfold.  
-Oppgaven gikk ut på å **kombinere ulike typer KI-verktøy** – en språkmodell, et kodeverktøy og en bildegenerator – for å lage en komplett og funksjonell nettside.
+Oppgaven gikk ut på å **kombinere ulike typer KI-verktøy**, en språkmodell, et kodeverktøy og en bildegenerator – for å lage en komplett og funksjonell nettside.
 
 Jeg valgte å utvikle en **To-Do List nettside**, som lar brukeren legge til, fullføre og slette oppgaver, angi frister med nedtelling, og følge progresjonen gjennom en visuell fremdriftsindikator. Nettsiden støtter både **mørkt og lyst tema**, og bruker enkle overganger for en mer behagelig brukeropplevelse.
 
