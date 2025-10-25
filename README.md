@@ -54,9 +54,12 @@ Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet. Bldene som 
 ---
 
 ## Kjør prosjektet lokalt
+
 1. Klon repositoriet:
    ```bash
-   git clone https://github.com/<brukernavn>/anvendt-ai-oblig2.git
-2. Åpne prosjektmappen: cd anvendt-ai-oblig2
+   git clone https://github.com/<brukernavn>/applied-ai-todo-app.git
 
-3. Åpne index.html i nettleseren
+2. Åpne prosjektmappen: cd applied-ai-todo-app
+
+3.  Åpne prosjektet i nettleseren ved å dobbeltklikke på index.html, eller høyreklikk og velg "Åpne i nettleser".
+
