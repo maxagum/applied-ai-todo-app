@@ -1,4 +1,4 @@
-# 🧠 Obligatorisk Oppgave 2 – Anvendt AI  
+# Obligatorisk Oppgave 2 – Anvendt AI  
 **Fag:** Anvendt kunstig intelligens  
 **Institusjon:** Høgskolen i Østfold  
 **Student:** Mahmad Gumauri  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Prosjektbeskrivelse
+## Prosjektbeskrivelse
 Dette prosjektet er utviklet som en del av emnet *Anvendt AI* ved Høgskolen i Østfold.  
 Oppgaven gikk ut på å **kombinere ulike typer KI-verktøy**, en språkmodell, et kodeverktøy og en bildegenerator – for å lage en komplett og funksjonell nettside.
 
@@ -16,7 +16,7 @@ Formålet var å vise hvordan generative KI-modeller kan samarbeide for å produ
 
 ---
 
-## 🧩 Brukte KI-verktøy
+## Brukte KI-verktøy
 
 ### 1. **Claude – Kodegenerering**
 Claude ble brukt til å utvikle struktur og funksjonalitet i nettsiden.  
@@ -32,7 +32,7 @@ Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet. Bldene som 
 
 ---
 
-## 🖥️ Teknologier og filer
+## Teknologier og filer
 
 | Filnavn | Beskrivelse |
 |----------|--------------|
@@ -43,7 +43,7 @@ Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet. Bldene som 
 
 ---
 
-## ⚙️ Funksjonalitet
+## Funksjonalitet
 - Legg til, rediger og slett oppgaver  
 - Sett **frist (deadline)** og vis **nedtelling**  
 - Se **fremdrift/progress bar** (f.eks. 3/7 oppgaver fullført)  
@@ -53,7 +53,7 @@ Dette bidro til et mer helhetlig og profesjonelt uttrykk i designet. Bldene som 
 
 ---
 
-## 🚀 Kjør prosjektet lokalt
+## Kjør prosjektet lokalt
 1. Klon repositoriet:
    ```bash
    git clone https://github.com/<brukernavn>/anvendt-ai-oblig2.git
