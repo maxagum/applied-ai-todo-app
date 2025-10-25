@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="no" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Min To-Do Liste</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <header>
+                <div class="header-content">
+                    <div class="header-branding">
+                        <img src="./images/logo.png" alt="Logo" class="logo">
+                        <h1>Min To-Do Liste</h1>
+                    </div>
+                    <button id="theme-toggle" aria-pressed="false" aria-label="Bytt til mørkt tema">
+                        🌙
+                    </button>
+                </div>
+            </header>
+
+            <section class="input-section">
+                <div class="input-group">
+                    <label for="todo-input" class="visually-hidden">Ny oppgave</label>
+                    <input type="text" id="todo-input" placeholder="Skriv en oppgave…">
+                    <label for="todo-date" class="visually-hidden">Frist</label>
+                    <input type="date" id="todo-date" aria-label="Velg frist">
+                </div>
+                <button id="add-button" aria-label="Legg til oppgave">
+                    <img src="./images/add-icon.png" alt="Legg til">
+                </button>
+            </section>
+
+            <section class="filter-section">
+                <button class="filter-button active" data-filter="all" aria-label="Vis alle oppgaver">Alle</button>
+                <button class="filter-button" data-filter="active" aria-label="Vis aktive oppgaver">Aktive</button>
+                <button class="filter-button" data-filter="completed" aria-label="Vis fullførte oppgaver">Fullførte</button>
+            </section>
+
+            <section class="progress-section">
+                <div class="progress-text" id="progress-text" aria-live="polite">0/0 oppgaver fullført (0%)</div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+                </div>
+            </section>
+
+            <section class="list-section">
+                <ul id="todo-list" role="list"></ul>
+            </section>
+
+            <footer>
+                <span id="todo-counter" aria-live="polite">0 oppgaver igjen</span>
+                <button id="clear-completed" aria-label="Fjern alle fullførte oppgaver">Fjern fullførte</button>
+            </footer>
+        </div>
+    </main>
+</body>
+</html>
