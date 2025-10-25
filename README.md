@@ -1,5 +1,5 @@
 # Obligatorisk Oppgave 2 – Anvendt AI  
-**Fag:** Anvendt kunstig intelligens  
+**Fag:** Innføring Generativ AI 
 **Institusjon:** Høgskolen i Østfold  
 **Student:** Mahmad Gumauri  
 **Semester:** Høst 2025  
